@@ -13,5 +13,9 @@ to main.js
 
 6."container pt-2" for shifting the box in the center and adding padding to it .
 
-7. class = "Home text-center"
+7. class = "Home text-center" to centerg everything in the home page.
+
+8.create a Signup page and connection it to home page .
+
+
  
